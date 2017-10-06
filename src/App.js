@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter, BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Nav from './Nav';
 import Home from './Home';
 import About from './About';
@@ -12,7 +12,7 @@ import Resume from './Resume';
 class App extends Component {
   render() {
     return (
-      <Router>
+      <HashRouter>
         <div className="container">
           <Nav />
           <Switch>
@@ -28,7 +28,7 @@ class App extends Component {
 
           </Switch>
         </div>
-      </Router>
+      </HashRouter>
     );
   }
 }
