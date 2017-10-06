@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0 2rem;
+  font-family: sans-serif;
+
+  /*color coding*/
+  background: url('./img/mount_rainier.jpg') no-repeat center fixed;
+
+
+  color: white;
+}

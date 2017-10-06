@@ -1,0 +1,22 @@
+{"sites":[
+  {"name": "Pencil",
+    "url":"http://students.washington.edu/ericma00/info343/a2-html-css-ericma000/",
+    "description": "Pencil is a page that utilize basic HTML and CSS to present informative information about pencils.",
+    "img": "pencil.jpg"
+  },
+  {"name": "Mass Shootings",
+   "url":"http://students.washington.edu/ericma00/info343/a3-mapping-ericma000/",
+   "description": "Mass Shooting is a simple website that uses leaflet.js to plot data of shootings that happened throughout the US in 2016.",
+   "img": "gun.jpg"
+ },
+ {"name": "Instagrad",
+  "url":"http://students.washington.edu/ericma00/info360/design_narrative/",
+  "description": "A prototype of a website that compiles all of the class-related information into one; makes UW registration a lot easier and better",
+  "img": "instagrad.png"
+  },
+  {"name": "Identity Gun",
+   "url":"http://students.washington.edu/ericma00/info360/identity_gun/",
+   "description": "A prototype of a smart gun that uses multiple security methods to prevent unwanted users from getting a hole of it",
+   "img": "identity_gun.jpg"
+  }
+]}

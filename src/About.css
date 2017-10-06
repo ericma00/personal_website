@@ -1,0 +1,51 @@
+.container_about{
+   background-color: transparent;
+   position: relative;
+   width: 90%;
+   margin: auto;
+
+}
+
+.profilePic {
+  width: 100%;
+}
+
+.container_about h1 {
+  text-align: center
+}
+
+.description {
+  font-size: 18px;
+  line-height: 1.5rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .container_about{
+     background-color: transparent;
+     position: relative;
+     overflow: hidden;
+     width: 75%;
+     margin: auto;
+
+  }
+
+  .profilePic {
+    /*position: absolute;
+    top: 0;
+    right: 0;*/
+    float: left;
+    width: 20%;
+    margin: 2.5%;
+    margin-top: 0;
+    border-radius:
+  }
+
+  .container_about h1 {
+    text-align: center
+  }
+
+  .description {
+    font-size: 18px;
+    line-height: 1.5rem;
+  }
+}
