@@ -7,7 +7,7 @@ class Identity_Gun extends Component {
         <div className='container_project'>
             <h1 style={{textAlign: 'center'}}>IDENTITY GUN</h1>
             <div className="project_link">
-              <a href="https://docs.google.com/document/d/e/2PACX-1vQDtk-mNfnMOuWeXmfWWwNAP1AzGBR5BHht-gcvmC-uVcsTDKL2Q_d1ojJd6ETYWWarD6hEiZqnTd-x/pub" target="_blank">
+              <a href="https://drive.google.com/open?id=0B-DlIP3oXqQhLXhyMDFITXJPa2M" target="_blank">
                 <div className="button">
                   SEE MORE
                 </div>

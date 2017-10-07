@@ -24,7 +24,7 @@ class Nav extends Component {
               </NavLink>
             </li>
             <li>
-              <a href="https://www.docdroid.net/VJj4YR7/resume.pdf" target="_blank">
+              <a href="https://drive.google.com/open?id=0B-DlIP3oXqQhbV9odDBxZEdNUWs" target="_blank">
                 Resume
               </a>
             </li>

@@ -12,7 +12,7 @@ class Patient_Appointment extends Component {
                   DOCUMENTATION
                 </div>
               </a>
-              <a href="https://docs.google.com/document/d/e/2PACX-1vRFSkmx6T7-XQR_wuMG8DBQwEShIvcsWRqAXpzUHte3_C4GJWnQ2URg9r8-s8lMGX8vLbeSUOjS01AA/pub" target="_blank">
+              <a href="https://drive.google.com/open?id=0B-DlIP3oXqQhcjd4ekREalRSb2s" target="_blank">
                 <div className="button">
                   SOURCE CODE
                 </div>
