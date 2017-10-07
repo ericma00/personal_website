@@ -25,7 +25,7 @@ class Instagrad extends Component {
                   problem at UW. The problem with registration at UW is that the process
                   can be a bit overwhelming because students there are many classes
                   and professors that students have to choose from. Some students
-                  also chooses classes based off of how good the professor teaches.
+                  also choose classes based off of how good the professor teaches.
                   Instagrad was designed so that students will have all the information
                   needed about a class and/or professor right in front of them so that
                   during registration, they won't have to go through multiple sources to
