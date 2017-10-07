@@ -7,8 +7,10 @@ class Nav extends Component {
   render() {
     return (
       <header>
-        <h3>ERIC MA</h3>
-        {/* <img id='logo' src={image} alt="panda" /> */}
+        <NavLink exact activeClassName='active' to='/'
+          style={{color: '#e0e0e0'}}>
+          <h3>ERIC MA</h3>
+        </NavLink>
         <nav>
           <ul className="nav">
             <li>

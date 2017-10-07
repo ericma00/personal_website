@@ -113,7 +113,9 @@ class Home extends Component {
                     onMouseLeave={this.onLeave.bind(this)}
                     style={this.state.linkedin}
                     >
-                    <FontAwesome id="linkedin" name="linkedin" />
+                    <a href="https://www.linkedin.com/in/ericma000" target="_blank" >
+                      <FontAwesome id="linkedin" name="linkedin" />
+                    </a>
                   </li>
                   <li className="email"
                     onMouseOver={this.onHover.bind(this)}
