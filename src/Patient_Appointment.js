@@ -28,9 +28,9 @@ class Patient_Appointment extends Component {
                 <p>
                   Patient Appointment is a relational database management
                   project designed to help make the process of patients scheduling
-                  appointments more efficiently. The database contains information
-                  related to appointments such as the time, date, and place of location
-                  of the appointment and the doctor whom the patient is seeing.
+                  appointments more efficient. The database contains information
+                  related to appointments such as the time, date, location
+                  and the doctor whom the patient is seeing.
                 </p>
                 <h2>How It Was Made</h2>
                 <p>

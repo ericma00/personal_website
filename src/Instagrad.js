@@ -26,8 +26,8 @@ class Instagrad extends Component {
                   can be a bit overwhelming because students there are many classes
                   and professors that students have to choose from. Some students
                   also choose classes based off of how good the professor teaches.
-                  Instagrad was designed so that students will have all the information
-                  needed about a class and/or professor right in front of them so that
+                  Instagrad was designed so that students will have all the information they 
+                  need about a class and/or professor right in front of them so that
                   during registration, they won't have to go through multiple sources to
                   find the information they needed.
                 </p>

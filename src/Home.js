@@ -92,7 +92,7 @@ class Home extends Component {
       <div className="container_home">
         <div className="content">
           {/* <h1>Chen-Che (Eric) Ma</h1> */}
-          <h1>Welcome To Eric's Website</h1>
+          <h1>Welcome to Eric's Website</h1>
           {/* <h3 style={{textAlign: 'center'}}>Chen-Che (Eric) Ma</h3> */}
           <h4>Aspiring Web & Mobile App Developer</h4>
 

@@ -18,7 +18,7 @@ class Project_Home extends Component {
               <div id="project_1" className="project">
                 <div className="date">
                   <h2>Mass Shooting</h2>
-                  <h5>October 2016</h5>
+                  <h5>Autumn 2016</h5>
                 </div>
               </div>
             </NavLink>
@@ -26,7 +26,7 @@ class Project_Home extends Component {
                 <div id="project_2" className="project">
                   <div className="date">
                     <h2>Pencil</h2>
-                    <h5>October 2016</h5>
+                    <h5>Autumn 2016</h5>
                   </div>
                 </div>
             </NavLink>
@@ -34,7 +34,7 @@ class Project_Home extends Component {
                 <div id="project_3" className="project">
                   <div className="date" id="three">
                     <h2>Instagrad</h2>
-                    <h5>May 2016</h5>
+                    <h5>Spring 2016</h5>
                   </div>
                 </div>
             </NavLink>
@@ -42,7 +42,7 @@ class Project_Home extends Component {
                 <div id="project_4" className="project">
                   <div className="date" id="four">
                     <h2>IdentiyGun</h2>
-                    <h5>December 2016</h5>
+                    <h5>Autumn 2016</h5>
                   </div>
                 </div>
             </NavLink>
@@ -51,8 +51,8 @@ class Project_Home extends Component {
           <NavLink style={linkStyle} exact activeClassName='active' to='/portfolio/nineboard'>
               <div id="project_5" className="project">
                 <div className="date" id="five">
-                  <h2>Mass Shooting</h2>
-                  <h5>January 2017</h5>
+                  <h2>Nineboard</h2>
+                  <h5>Winter 2016</h5>
                 </div>
               </div>
           </NavLink>
@@ -60,7 +60,7 @@ class Project_Home extends Component {
               <div id="project_6" className="project">
                 <div className="date" id="six">
                   <h3>Patient Appoinment</h3>
-                  <h5>May 2017</h5>
+                  <h5>Spring 2017</h5>
                 </div>
               </div>
           </NavLink>
@@ -68,7 +68,7 @@ class Project_Home extends Component {
               <div id="project_7" className="project">
                 <div className="date" id="six">
                   <h3>Personal Website</h3>
-                  <h5>October 2017</h5>
+                  <h5>Autumn 2017</h5>
                 </div>
               </div>
           </NavLink>

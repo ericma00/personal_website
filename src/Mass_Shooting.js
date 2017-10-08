@@ -22,14 +22,14 @@ class Mass_Shooting extends Component {
               <div className="proj_description">
                 <h2>Description</h2>
                   <p>
-                    Mass Shooting is an interactive map that uses a crowdsource data
+                    Mass Shooting is an interactive map that uses a crowdsourced data
                     to show the locations and the death tolls of mass shootings that
                     occured in 2016.
                   </p>
                 <h2>How It Was Made</h2>
                   <p>
                     Mass Shooting was created using the Leaflet.js mapping API. The
-                    rest of the site, which includes the layout and colors, were
+                    rest of the site, which includes the layout and colors, was
                     made using simple HTML, CSS and Javascript.
                   </p>
               </div>

@@ -22,14 +22,14 @@ class Pencil extends Component {
                 <h2>Description</h2>
                 <p>
                    Pencil is a website that provides information about pencils,
-                   which include its features, usage, and the cost.
+                   including its features, usage, and the cost.
                 </p>
                 <h2>How It Was Made</h2>
                 <p>
-                  Pencil was created using simple HTML and CSS. It also utilize
+                  Pencil was created using simple HTML and CSS. It also utilizse
                   the responsive web design method so that users who access the
                   website on different devices are still able to see the content
-                  easily and without inconvenience. 
+                  easily and without inconvenience.
                 </p>
               </div>
             </div>
